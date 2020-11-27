@@ -1,0 +1,11 @@
+from Platform import platform
+p = platform("Plamena", 488455451, 5165151651)
+p.Proverka()
+p.Plashtane("Всичко")
+p.Proverka()
+p = platform("Toshko", 9516518441, 231684151)
+p.Proverka()
+p.Plashtane("tok")
+p.Plashtane("voda")
+p.Plashtane("tel")
+p.Proverka()
